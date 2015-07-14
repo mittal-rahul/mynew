@@ -1,2 +1,3 @@
 # mynew
-Repository for first timr
+Repository for first time
+done for first time
